@@ -22,7 +22,7 @@ h2{
   margin-left: 20px;
 }
 a{
-  color: whitesmoke;
+  color: rgb(43, 43, 43);
   text-decoration: none;
   margin-right: 20px;
 }
@@ -45,4 +45,5 @@ button{
 h1{
   margin: 0;
   padding: 0;
+  color: rgb(43, 43, 43);
 }
