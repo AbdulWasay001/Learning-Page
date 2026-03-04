@@ -6,7 +6,7 @@ body,html{
   background-image: url(img.png);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100%;
+  background-size: cover;
 }
 #header1{
   display: flex;
@@ -18,11 +18,11 @@ display: flex;
 gap: 10px;
 }
 h2{
-  color: black;
+  color: whitesmoke;
   margin-left: 20px;
 }
 a{
-  color: black;
+  color: whitesmoke;
   text-decoration: none;
   margin-right: 20px;
 }
